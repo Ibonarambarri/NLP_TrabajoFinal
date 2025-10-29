@@ -1,0 +1,38 @@
+# Ignorar toda la carpeta de datos procesados
+data_processed/
+
+# Ignorar modelos entrenados
+models/
+
+# Ignorar archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ignorar entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# Ignorar archivos de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignorar archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
