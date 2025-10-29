@@ -4,6 +4,10 @@ data_processed/
 # Ignorar modelos entrenados
 models/
 
+# Ignorar archivos CSV grandes de data/
+data/dataset_multiidioma.csv
+data/dataset_mezclado_final.csv
+
 # Ignorar archivos de Python
 __pycache__/
 *.py[cod]
