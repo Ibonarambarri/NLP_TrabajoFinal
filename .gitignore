@@ -40,3 +40,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Ignorar notas de Claude
+claude.md
+CLAUDE.md
